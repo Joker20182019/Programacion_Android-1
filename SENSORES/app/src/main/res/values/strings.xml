@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SENSORES</string>
+    <string name="title">Datos :</string>
+    <string name="acelerometro">Acelerometro :</string>
+    <string name="giro">Giroscopio :</string>
+</resources>

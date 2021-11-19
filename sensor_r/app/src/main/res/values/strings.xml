@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sensor_r</string>
+    <string name="title_view">Lista de sensores :</string>
+</resources>

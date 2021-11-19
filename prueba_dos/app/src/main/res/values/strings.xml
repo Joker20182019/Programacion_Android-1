@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="guardar">Guardar ubicacion</string>
+    <string name="lista">Ver ubicaciones</string>
+    <string name="agrega">Agregar manualmente</string>
+    <string name="save">Guardar</string>
+</resources>
